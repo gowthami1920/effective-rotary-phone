@@ -1,0 +1,24 @@
+Category,Required metric,CognoDB,Neo4j,Memgraph,FalkorDB,Status / caveat
+Data loading,Ingest throughput — nodes/sec,Not measured,Not measured,Not measured,Not measured,Required by assignment; no elapsed ingest time was captured in the supplied outputs.
+Data loading,Ingest throughput — relationships/sec,Not measured,Not measured,Not measured,Not measured,Required by assignment; no elapsed ingest time was captured in the supplied outputs.
+Data loading,Total wall-clock load time,Not measured,Not measured,Not measured,Not measured,"Import completion counts were recorded, but wall-clock load times were not recorded."
+Traversals,1-hop — Average latency (ms),341.8,105.16,334.48,29.49,Measured
+Traversals,1-hop — P50 latency (ms),320.1,101.11,319.83,28.62,Measured
+Traversals,1-hop — P95 latency (ms),426.9,130.42,407.64,31.26,Measured
+Traversals,2-hop — Average latency (ms),393.7,114.04,478.35,29.92,Measured
+Traversals,2-hop — P50 latency (ms),323.84,107.98,369.9,28.73,Measured
+Traversals,2-hop — P95 latency (ms),694.28,151.15,769.54,31.93,Measured
+Traversals,3-hop — Average latency (ms),877.11,261.29,907.97,31.8,Measured
+Traversals,3-hop — P50 latency (ms),945.91,243.57,838.19,31.34,Measured
+Traversals,3-hop — P95 latency (ms),1095.96,406.17,1133.32,32.83,Measured
+Lookups,Point lookup — Average latency (ms),330.8,105.4,325.83,28.92,Measured
+Lookups,Point lookup — P50 latency (ms),319.96,100.07,320.08,28.64,Measured
+Lookups,Point lookup — P95 latency (ms),399.77,117.25,356.48,28.82,Measured
+Lookups,Indexed/filtered lookup — P50/P95 + indexed property,Not measured,Not measured,Not measured,P50 129.52; P95 194.47; Person.id indexed,Only FalkorDB was tested; assignment requires every platform.
+Aggregations,Aggregation — Average latency (ms),353.2,123.7,367.9,24.16,Measured
+Aggregations,Aggregation — P50 latency (ms),342.37,121.31,342.82,24.13,Measured
+Aggregations,Aggregation — P95 latency (ms),438.82,148.15,448.37,26.02,Measured
+Mixed workload,Concurrent read/write throughput (QPS),Not measured,Not measured,Not measured,45.5,"Only FalkorDB was tested; 5 clients, 200 operations."
+Mixed workload,Mixed workload Average latency (ms),Not measured,Not measured,Not measured,67.32,Only FalkorDB was tested.
+Mixed workload,Mixed workload P50/P95 (ms),Not measured,Not measured,Not measured,P50 57.56; P95 123.29,Only FalkorDB was tested.
+Footprint,Resource usage / stored size / memory / instance specs,Not documented,Not documented,Not documented,Not documented,"Assignment requires reporting whatever is observable, or 'not observable'."
