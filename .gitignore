@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+*.env
+!.env.example
+
+# Local/editor files
+.vscode/
+.idea/
+.DS_Store
+
+# Local benchmark/error output
+error.txt
+*.log
+
+# Local dataset copies that may be large
+data/

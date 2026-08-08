@@ -1,0 +1,601 @@
+Query,Run,Time (ms)
+Count Nodes,1,87.76
+Count Nodes,2,77.03
+Count Nodes,3,76.86
+Count Nodes,4,82.21
+Count Nodes,5,80.77
+Count Nodes,6,80.13
+Count Nodes,7,82.09
+Count Nodes,8,86.11
+Count Nodes,9,114.60
+Count Nodes,10,87.19
+Count Nodes,11,79.86
+Count Nodes,12,89.27
+Count Nodes,13,96.56
+Count Nodes,14,108.73
+Count Nodes,15,74.87
+Count Nodes,16,81.73
+Count Nodes,17,78.90
+Count Nodes,18,79.79
+Count Nodes,19,99.12
+Count Nodes,20,70.95
+Count Nodes,21,87.77
+Count Nodes,22,85.25
+Count Nodes,23,77.09
+Count Nodes,24,85.97
+Count Nodes,25,75.67
+Count Nodes,26,78.91
+Count Nodes,27,95.80
+Count Nodes,28,77.26
+Count Nodes,29,77.50
+Count Nodes,30,78.83
+Count Nodes,31,81.66
+Count Nodes,32,93.54
+Count Nodes,33,86.99
+Count Nodes,34,94.53
+Count Nodes,35,96.76
+Count Nodes,36,96.42
+Count Nodes,37,77.67
+Count Nodes,38,89.92
+Count Nodes,39,73.77
+Count Nodes,40,79.81
+Count Nodes,41,82.90
+Count Nodes,42,77.94
+Count Nodes,43,78.78
+Count Nodes,44,123.18
+Count Nodes,45,83.63
+Count Nodes,46,90.49
+Count Nodes,47,82.47
+Count Nodes,48,80.16
+Count Nodes,49,81.24
+Count Nodes,50,97.31
+Count Nodes,51,150.29
+Count Nodes,52,82.85
+Count Nodes,53,77.87
+Count Nodes,54,88.95
+Count Nodes,55,81.40
+Count Nodes,56,79.50
+Count Nodes,57,85.98
+Count Nodes,58,77.57
+Count Nodes,59,77.00
+Count Nodes,60,89.50
+Count Nodes,61,95.81
+Count Nodes,62,77.44
+Count Nodes,63,79.37
+Count Nodes,64,138.11
+Count Nodes,65,79.13
+Count Nodes,66,88.24
+Count Nodes,67,75.58
+Count Nodes,68,94.07
+Count Nodes,69,73.55
+Count Nodes,70,79.38
+Count Nodes,71,79.59
+Count Nodes,72,80.60
+Count Nodes,73,80.47
+Count Nodes,74,87.39
+Count Nodes,75,72.84
+Count Nodes,76,79.16
+Count Nodes,77,80.18
+Count Nodes,78,80.14
+Count Nodes,79,86.16
+Count Nodes,80,73.40
+Count Nodes,81,80.20
+Count Nodes,82,78.89
+Count Nodes,83,90.66
+Count Nodes,84,80.19
+Count Nodes,85,87.78
+Count Nodes,86,78.03
+Count Nodes,87,83.21
+Count Nodes,88,80.83
+Count Nodes,89,94.78
+Count Nodes,90,86.87
+Count Nodes,91,87.13
+Count Nodes,92,100.04
+Count Nodes,93,81.47
+Count Nodes,94,79.48
+Count Nodes,95,88.70
+Count Nodes,96,113.18
+Count Nodes,97,86.15
+Count Nodes,98,102.39
+Count Nodes,99,89.78
+Count Nodes,100,89.91
+Point Lookup,1,107.79
+Point Lookup,2,100.59
+Point Lookup,3,94.67
+Point Lookup,4,105.16
+Point Lookup,5,76.65
+Point Lookup,6,88.36
+Point Lookup,7,108.82
+Point Lookup,8,97.36
+Point Lookup,9,96.79
+Point Lookup,10,98.33
+Point Lookup,11,98.25
+Point Lookup,12,95.49
+Point Lookup,13,112.03
+Point Lookup,14,96.90
+Point Lookup,15,115.46
+Point Lookup,16,101.83
+Point Lookup,17,98.25
+Point Lookup,18,103.56
+Point Lookup,19,99.81
+Point Lookup,20,97.01
+Point Lookup,21,98.80
+Point Lookup,22,93.22
+Point Lookup,23,97.03
+Point Lookup,24,105.81
+Point Lookup,25,93.34
+Point Lookup,26,90.86
+Point Lookup,27,91.84
+Point Lookup,28,107.47
+Point Lookup,29,103.39
+Point Lookup,30,99.83
+Point Lookup,31,100.77
+Point Lookup,32,97.94
+Point Lookup,33,101.27
+Point Lookup,34,100.44
+Point Lookup,35,105.42
+Point Lookup,36,93.46
+Point Lookup,37,103.58
+Point Lookup,38,107.05
+Point Lookup,39,97.33
+Point Lookup,40,92.81
+Point Lookup,41,99.48
+Point Lookup,42,97.95
+Point Lookup,43,101.23
+Point Lookup,44,99.88
+Point Lookup,45,89.84
+Point Lookup,46,101.04
+Point Lookup,47,102.62
+Point Lookup,48,102.65
+Point Lookup,49,102.63
+Point Lookup,50,92.35
+Point Lookup,51,100.06
+Point Lookup,52,153.90
+Point Lookup,53,93.73
+Point Lookup,54,94.23
+Point Lookup,55,94.85
+Point Lookup,56,91.26
+Point Lookup,57,89.12
+Point Lookup,58,109.54
+Point Lookup,59,94.64
+Point Lookup,60,97.55
+Point Lookup,61,107.22
+Point Lookup,62,92.02
+Point Lookup,63,107.21
+Point Lookup,64,110.60
+Point Lookup,65,97.68
+Point Lookup,66,118.66
+Point Lookup,67,104.14
+Point Lookup,68,120.82
+Point Lookup,69,97.42
+Point Lookup,70,100.75
+Point Lookup,71,100.42
+Point Lookup,72,95.63
+Point Lookup,73,99.47
+Point Lookup,74,96.73
+Point Lookup,75,90.36
+Point Lookup,76,92.31
+Point Lookup,77,96.81
+Point Lookup,78,91.64
+Point Lookup,79,103.21
+Point Lookup,80,99.18
+Point Lookup,81,103.24
+Point Lookup,82,105.20
+Point Lookup,83,116.75
+Point Lookup,84,100.56
+Point Lookup,85,100.07
+Point Lookup,86,121.71
+Point Lookup,87,100.85
+Point Lookup,88,99.20
+Point Lookup,89,111.61
+Point Lookup,90,115.65
+Point Lookup,91,101.76
+Point Lookup,92,502.33
+Point Lookup,93,99.64
+Point Lookup,94,105.91
+Point Lookup,95,109.04
+Point Lookup,96,117.25
+Point Lookup,97,109.31
+Point Lookup,98,106.02
+Point Lookup,99,93.69
+Point Lookup,100,114.79
+1-Hop Traversal,1,118.97
+1-Hop Traversal,2,108.15
+1-Hop Traversal,3,137.06
+1-Hop Traversal,4,116.39
+1-Hop Traversal,5,101.91
+1-Hop Traversal,6,100.22
+1-Hop Traversal,7,94.84
+1-Hop Traversal,8,101.05
+1-Hop Traversal,9,91.95
+1-Hop Traversal,10,133.36
+1-Hop Traversal,11,112.25
+1-Hop Traversal,12,114.63
+1-Hop Traversal,13,110.23
+1-Hop Traversal,14,89.20
+1-Hop Traversal,15,104.02
+1-Hop Traversal,16,105.89
+1-Hop Traversal,17,93.14
+1-Hop Traversal,18,98.90
+1-Hop Traversal,19,114.11
+1-Hop Traversal,20,94.59
+1-Hop Traversal,21,105.16
+1-Hop Traversal,22,105.34
+1-Hop Traversal,23,101.56
+1-Hop Traversal,24,102.55
+1-Hop Traversal,25,96.81
+1-Hop Traversal,26,96.41
+1-Hop Traversal,27,94.19
+1-Hop Traversal,28,165.16
+1-Hop Traversal,29,94.00
+1-Hop Traversal,30,111.05
+1-Hop Traversal,31,100.12
+1-Hop Traversal,32,97.21
+1-Hop Traversal,33,108.56
+1-Hop Traversal,34,114.75
+1-Hop Traversal,35,101.48
+1-Hop Traversal,36,95.97
+1-Hop Traversal,37,98.85
+1-Hop Traversal,38,89.46
+1-Hop Traversal,39,91.27
+1-Hop Traversal,40,101.16
+1-Hop Traversal,41,115.98
+1-Hop Traversal,42,91.14
+1-Hop Traversal,43,100.77
+1-Hop Traversal,44,101.82
+1-Hop Traversal,45,101.34
+1-Hop Traversal,46,117.52
+1-Hop Traversal,47,88.86
+1-Hop Traversal,48,89.39
+1-Hop Traversal,49,90.65
+1-Hop Traversal,50,89.58
+1-Hop Traversal,51,103.41
+1-Hop Traversal,52,105.14
+1-Hop Traversal,53,93.17
+1-Hop Traversal,54,99.23
+1-Hop Traversal,55,108.62
+1-Hop Traversal,56,93.64
+1-Hop Traversal,57,99.87
+1-Hop Traversal,58,100.48
+1-Hop Traversal,59,132.65
+1-Hop Traversal,60,111.15
+1-Hop Traversal,61,93.81
+1-Hop Traversal,62,90.95
+1-Hop Traversal,63,109.87
+1-Hop Traversal,64,100.10
+1-Hop Traversal,65,100.44
+1-Hop Traversal,66,130.42
+1-Hop Traversal,67,98.30
+1-Hop Traversal,68,117.51
+1-Hop Traversal,69,101.66
+1-Hop Traversal,70,120.76
+1-Hop Traversal,71,99.18
+1-Hop Traversal,72,91.24
+1-Hop Traversal,73,98.47
+1-Hop Traversal,74,102.24
+1-Hop Traversal,75,98.28
+1-Hop Traversal,76,94.96
+1-Hop Traversal,77,100.55
+1-Hop Traversal,78,95.86
+1-Hop Traversal,79,242.30
+1-Hop Traversal,80,96.46
+1-Hop Traversal,81,118.09
+1-Hop Traversal,82,91.68
+1-Hop Traversal,83,101.87
+1-Hop Traversal,84,100.79
+1-Hop Traversal,85,102.00
+1-Hop Traversal,86,96.86
+1-Hop Traversal,87,98.81
+1-Hop Traversal,88,119.65
+1-Hop Traversal,89,114.72
+1-Hop Traversal,90,97.83
+1-Hop Traversal,91,104.63
+1-Hop Traversal,92,102.89
+1-Hop Traversal,93,108.36
+1-Hop Traversal,94,109.11
+1-Hop Traversal,95,113.87
+1-Hop Traversal,96,108.04
+1-Hop Traversal,97,100.25
+1-Hop Traversal,98,91.06
+1-Hop Traversal,99,99.34
+1-Hop Traversal,100,106.49
+2-Hop Traversal,1,122.68
+2-Hop Traversal,2,118.85
+2-Hop Traversal,3,101.03
+2-Hop Traversal,4,170.19
+2-Hop Traversal,5,105.67
+2-Hop Traversal,6,108.37
+2-Hop Traversal,7,97.90
+2-Hop Traversal,8,92.19
+2-Hop Traversal,9,93.37
+2-Hop Traversal,10,101.68
+2-Hop Traversal,11,96.22
+2-Hop Traversal,12,94.49
+2-Hop Traversal,13,113.48
+2-Hop Traversal,14,109.94
+2-Hop Traversal,15,136.21
+2-Hop Traversal,16,111.80
+2-Hop Traversal,17,89.92
+2-Hop Traversal,18,131.58
+2-Hop Traversal,19,107.75
+2-Hop Traversal,20,124.69
+2-Hop Traversal,21,117.37
+2-Hop Traversal,22,105.99
+2-Hop Traversal,23,110.03
+2-Hop Traversal,24,102.91
+2-Hop Traversal,25,129.61
+2-Hop Traversal,26,148.68
+2-Hop Traversal,27,139.21
+2-Hop Traversal,28,122.55
+2-Hop Traversal,29,114.79
+2-Hop Traversal,30,113.75
+2-Hop Traversal,31,125.42
+2-Hop Traversal,32,139.46
+2-Hop Traversal,33,109.81
+2-Hop Traversal,34,109.29
+2-Hop Traversal,35,115.54
+2-Hop Traversal,36,111.80
+2-Hop Traversal,37,120.60
+2-Hop Traversal,38,106.30
+2-Hop Traversal,39,108.12
+2-Hop Traversal,40,129.19
+2-Hop Traversal,41,100.00
+2-Hop Traversal,42,105.56
+2-Hop Traversal,43,124.41
+2-Hop Traversal,44,97.60
+2-Hop Traversal,45,105.00
+2-Hop Traversal,46,176.39
+2-Hop Traversal,47,104.23
+2-Hop Traversal,48,160.87
+2-Hop Traversal,49,112.98
+2-Hop Traversal,50,104.86
+2-Hop Traversal,51,97.29
+2-Hop Traversal,52,139.30
+2-Hop Traversal,53,128.53
+2-Hop Traversal,54,125.12
+2-Hop Traversal,55,107.35
+2-Hop Traversal,56,268.86
+2-Hop Traversal,57,159.82
+2-Hop Traversal,58,101.27
+2-Hop Traversal,59,112.74
+2-Hop Traversal,60,102.76
+2-Hop Traversal,61,92.05
+2-Hop Traversal,62,120.15
+2-Hop Traversal,63,104.50
+2-Hop Traversal,64,101.36
+2-Hop Traversal,65,104.14
+2-Hop Traversal,66,109.68
+2-Hop Traversal,67,114.95
+2-Hop Traversal,68,97.61
+2-Hop Traversal,69,96.16
+2-Hop Traversal,70,103.68
+2-Hop Traversal,71,151.15
+2-Hop Traversal,72,100.72
+2-Hop Traversal,73,103.32
+2-Hop Traversal,74,96.19
+2-Hop Traversal,75,113.22
+2-Hop Traversal,76,103.93
+2-Hop Traversal,77,101.00
+2-Hop Traversal,78,126.69
+2-Hop Traversal,79,104.34
+2-Hop Traversal,80,109.24
+2-Hop Traversal,81,110.31
+2-Hop Traversal,82,108.84
+2-Hop Traversal,83,98.69
+2-Hop Traversal,84,105.84
+2-Hop Traversal,85,150.47
+2-Hop Traversal,86,99.37
+2-Hop Traversal,87,107.83
+2-Hop Traversal,88,113.15
+2-Hop Traversal,89,92.75
+2-Hop Traversal,90,121.96
+2-Hop Traversal,91,103.54
+2-Hop Traversal,92,94.18
+2-Hop Traversal,93,104.27
+2-Hop Traversal,94,113.01
+2-Hop Traversal,95,97.99
+2-Hop Traversal,96,106.58
+2-Hop Traversal,97,93.42
+2-Hop Traversal,98,92.34
+2-Hop Traversal,99,95.53
+2-Hop Traversal,100,96.34
+3-Hop Traversal,1,268.83
+3-Hop Traversal,2,255.31
+3-Hop Traversal,3,261.46
+3-Hop Traversal,4,258.84
+3-Hop Traversal,5,240.53
+3-Hop Traversal,6,241.60
+3-Hop Traversal,7,287.94
+3-Hop Traversal,8,258.16
+3-Hop Traversal,9,300.68
+3-Hop Traversal,10,406.17
+3-Hop Traversal,11,232.12
+3-Hop Traversal,12,288.43
+3-Hop Traversal,13,220.58
+3-Hop Traversal,14,433.42
+3-Hop Traversal,15,262.18
+3-Hop Traversal,16,252.48
+3-Hop Traversal,17,276.20
+3-Hop Traversal,18,311.83
+3-Hop Traversal,19,279.97
+3-Hop Traversal,20,239.01
+3-Hop Traversal,21,409.35
+3-Hop Traversal,22,329.23
+3-Hop Traversal,23,243.05
+3-Hop Traversal,24,231.54
+3-Hop Traversal,25,300.47
+3-Hop Traversal,26,243.74
+3-Hop Traversal,27,253.39
+3-Hop Traversal,28,243.40
+3-Hop Traversal,29,261.32
+3-Hop Traversal,30,303.77
+3-Hop Traversal,31,264.72
+3-Hop Traversal,32,239.51
+3-Hop Traversal,33,325.12
+3-Hop Traversal,34,239.19
+3-Hop Traversal,35,255.75
+3-Hop Traversal,36,255.08
+3-Hop Traversal,37,267.88
+3-Hop Traversal,38,271.34
+3-Hop Traversal,39,243.81
+3-Hop Traversal,40,271.13
+3-Hop Traversal,41,228.43
+3-Hop Traversal,42,350.93
+3-Hop Traversal,43,312.83
+3-Hop Traversal,44,377.38
+3-Hop Traversal,45,418.86
+3-Hop Traversal,46,490.61
+3-Hop Traversal,47,247.11
+3-Hop Traversal,48,265.76
+3-Hop Traversal,49,248.17
+3-Hop Traversal,50,260.92
+3-Hop Traversal,51,235.06
+3-Hop Traversal,52,220.64
+3-Hop Traversal,53,291.53
+3-Hop Traversal,54,210.78
+3-Hop Traversal,55,337.51
+3-Hop Traversal,56,249.34
+3-Hop Traversal,57,218.96
+3-Hop Traversal,58,200.98
+3-Hop Traversal,59,213.46
+3-Hop Traversal,60,384.24
+3-Hop Traversal,61,206.39
+3-Hop Traversal,62,207.29
+3-Hop Traversal,63,248.04
+3-Hop Traversal,64,237.02
+3-Hop Traversal,65,200.50
+3-Hop Traversal,66,209.32
+3-Hop Traversal,67,200.51
+3-Hop Traversal,68,198.46
+3-Hop Traversal,69,186.75
+3-Hop Traversal,70,229.29
+3-Hop Traversal,71,333.62
+3-Hop Traversal,72,211.64
+3-Hop Traversal,73,193.77
+3-Hop Traversal,74,184.35
+3-Hop Traversal,75,209.90
+3-Hop Traversal,76,201.54
+3-Hop Traversal,77,316.24
+3-Hop Traversal,78,234.13
+3-Hop Traversal,79,197.89
+3-Hop Traversal,80,204.75
+3-Hop Traversal,81,205.91
+3-Hop Traversal,82,389.46
+3-Hop Traversal,83,189.73
+3-Hop Traversal,84,203.79
+3-Hop Traversal,85,228.14
+3-Hop Traversal,86,194.58
+3-Hop Traversal,87,201.86
+3-Hop Traversal,88,207.85
+3-Hop Traversal,89,728.71
+3-Hop Traversal,90,262.29
+3-Hop Traversal,91,191.95
+3-Hop Traversal,92,191.87
+3-Hop Traversal,93,212.31
+3-Hop Traversal,94,244.93
+3-Hop Traversal,95,210.60
+3-Hop Traversal,96,220.64
+3-Hop Traversal,97,204.43
+3-Hop Traversal,98,205.66
+3-Hop Traversal,99,216.03
+3-Hop Traversal,100,214.70
+Aggregation,1,144.29
+Aggregation,2,119.18
+Aggregation,3,120.72
+Aggregation,4,129.67
+Aggregation,5,126.80
+Aggregation,6,134.01
+Aggregation,7,155.46
+Aggregation,8,117.21
+Aggregation,9,136.75
+Aggregation,10,113.28
+Aggregation,11,124.69
+Aggregation,12,122.53
+Aggregation,13,109.64
+Aggregation,14,130.65
+Aggregation,15,148.15
+Aggregation,16,113.61
+Aggregation,17,127.58
+Aggregation,18,116.50
+Aggregation,19,140.43
+Aggregation,20,112.60
+Aggregation,21,121.77
+Aggregation,22,131.70
+Aggregation,23,127.02
+Aggregation,24,119.52
+Aggregation,25,115.21
+Aggregation,26,107.65
+Aggregation,27,117.58
+Aggregation,28,111.73
+Aggregation,29,127.29
+Aggregation,30,110.18
+Aggregation,31,123.88
+Aggregation,32,126.22
+Aggregation,33,123.46
+Aggregation,34,110.58
+Aggregation,35,126.50
+Aggregation,36,152.08
+Aggregation,37,119.88
+Aggregation,38,118.28
+Aggregation,39,123.46
+Aggregation,40,121.06
+Aggregation,41,124.35
+Aggregation,42,121.55
+Aggregation,43,110.50
+Aggregation,44,166.58
+Aggregation,45,119.36
+Aggregation,46,113.38
+Aggregation,47,113.94
+Aggregation,48,123.30
+Aggregation,49,198.06
+Aggregation,50,126.25
+Aggregation,51,110.95
+Aggregation,52,117.73
+Aggregation,53,119.69
+Aggregation,54,113.21
+Aggregation,55,146.41
+Aggregation,56,122.79
+Aggregation,57,129.72
+Aggregation,58,115.96
+Aggregation,59,151.70
+Aggregation,60,129.76
+Aggregation,61,111.79
+Aggregation,62,109.57
+Aggregation,63,124.12
+Aggregation,64,125.78
+Aggregation,65,122.98
+Aggregation,66,120.90
+Aggregation,67,117.39
+Aggregation,68,126.53
+Aggregation,69,136.11
+Aggregation,70,106.54
+Aggregation,71,123.89
+Aggregation,72,118.96
+Aggregation,73,130.56
+Aggregation,74,114.16
+Aggregation,75,119.48
+Aggregation,76,115.09
+Aggregation,77,116.70
+Aggregation,78,111.59
+Aggregation,79,125.91
+Aggregation,80,112.51
+Aggregation,81,118.85
+Aggregation,82,120.45
+Aggregation,83,120.42
+Aggregation,84,117.13
+Aggregation,85,113.65
+Aggregation,86,121.90
+Aggregation,87,115.46
+Aggregation,88,114.71
+Aggregation,89,106.71
+Aggregation,90,124.35
+Aggregation,91,116.88
+Aggregation,92,112.90
+Aggregation,93,141.27
+Aggregation,94,126.12
+Aggregation,95,126.64
+Aggregation,96,124.84
+Aggregation,97,116.19
+Aggregation,98,128.63
+Aggregation,99,121.63
+Aggregation,100,136.46
